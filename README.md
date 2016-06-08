@@ -14,10 +14,8 @@
 
 ### The feature has not completed yet:
 create group, add user to group
-* Reason: I don't have much time cause I'm too busy with my current job. So I decided to stop here.
 
 ### Technologies
 * ReactJS
 * React-router
 * Bootstrap
-* Only using bootstrap, not use any other library for table
